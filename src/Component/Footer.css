@@ -1,0 +1,24 @@
+.footer-container {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  
+  .copyright {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .add{
+    margin-left: 1150px;
+    margin-top: 45px;
+    font-size: larger;
+  }
+  .contact-info{
+    margin-left: 50px;
+    font-size: larger;
+  }
+

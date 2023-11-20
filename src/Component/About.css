@@ -1,0 +1,105 @@
+.Head{
+    text-align: center;
+      
+      width:800px;
+      height:80px;
+      margin-left: 23%;
+}
+
+.para{
+    justify-content: center;
+    margin-left: 170px;;
+    margin-right: 170px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 35px;
+     font-size: 18px;
+    
+     padding: 20px;
+}
+
+.division1{
+    background-color:whitesmoke;
+    padding:20px;
+}
+.Head1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    border-bottom: 3px solid blue;
+    width:300px;
+    margin-left: 40%;
+    
+}
+.para2{
+    justify-content: center;
+    margin-left: 155px;;
+    margin-right: 500px;
+    line-height: 35px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.img{
+margin-left: 75%;
+width: 225px;
+height: 225px;
+margin-top: -150%;
+}
+
+.division2{
+    background-color: white;
+    padding:20px;
+}
+.pic1{
+    height: 280px;
+    width: 280px;
+    margin-top:80px ;
+    margin-left: 150px;
+}
+
+.pic2{
+    height: 280px;
+    width: 280px;
+    margin-left: 200px;
+}
+
+.Head2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    border-bottom: 3px solid rgb(255, 187, 41);
+    width:300px;
+    margin-left: 40%;
+}
+.division3{
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.division4{
+margin-left: 275px;
+}
+.Head3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    border-bottom: 3px solid rgb(112, 79, 6);
+    width:400px;
+    margin-left: 23%;
+}
+.cmp1{
+    height: 120px;
+    width: 150px;
+
+}
+.cmp2{
+    height: 120px;
+    width: 150px;
+}
+.cmp3{
+    height: 120px;
+    width: 150px;
+}
+.cmp4{
+    height: 120px;
+    width: 150px;
+}

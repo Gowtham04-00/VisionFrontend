@@ -1,0 +1,61 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "cname": "Java",
+      "cprice": "20000",
+      "cduration": "2month"
+    }
+  ],
+  "users": [
+    {
+      "email": "gow@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "admin": [
+    {
+      "email": "gowtham@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "batch": [
+    {
+      "bname": "Batch1",
+      "btime": "1pm - 3pm",
+      "btype": "JAVA",
+      "bavailable": "Yes",
+      "id": 1
+    }
+  ],
+  "trainer": [
+    {
+      "tname": "Sanjay",
+      "tsubject": "Stock Market",
+      "texperience": "3years",
+      "id": 1
+    }
+  ],
+  "branch": [
+    {
+      "bname": "T.nagar",
+      "baddress": "T.nagar, Chennai",
+      "bcontact": "9751314658",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "name": "tg5",
+      "email": "gow@gmail.com",
+      "message": "fgtyn",
+      "id": 1
+    },
+    {
+      "name": "tg5",
+      "email": "gow@gmail.com",
+      "message": "gtr4",
+      "id": 2
+    }
+  ]
+}

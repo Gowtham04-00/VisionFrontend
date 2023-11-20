@@ -1,0 +1,36 @@
+.side-image {
+
+    
+    background-color: #f8f9fa; /* Bootstrap background color */
+    
+  }
+  
+  .login-form {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+    width:600px;
+    margin-left: 20px;
+  }
+ 
+  .head{
+   
+    margin-left: 130px;
+   
+  }
+  .form-control{
+    width: 350px;
+    border-radius: 10px;
+  }
+ .btn{
+    margin-top: 15px;
+    margin-left: 60px;
+    width: 80px;
+ }
+
+
+    
+.img-fluid{
+    height: 700px;
+    width:1000px;
+}
